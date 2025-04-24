@@ -93,7 +93,6 @@ export default function Reports() {
                 transferType: selectedTransferType,
             };
             
-            console.log(payload)
             if (selectedReportType === REPORT_TYPES.REGISTER) {
                 navigate(`/registerreports`, { state: payload });
             } else {
