@@ -1,0 +1,18 @@
+export const URLS = {
+    LOGIN: "/login",
+    LOGOUT: "/logout",
+    CATEGORY:"/category",
+    PRODUCT:"/products",
+    TRANSACTION: "/transactions",
+    COMPANY : "/company",
+    TRANSFER: "/transfer",
+    SALE: "/sales",
+    USER: '/users',
+    CREATEUSER: "/create-user",
+    PERMISSION: "/permission",
+    PRODUCTION: "/productions",
+    HOME: "/home",
+    COMPANIES: "/companies",
+    STREPORT: "/stock-report",
+    REGREPORT: "/register-report",
+}
