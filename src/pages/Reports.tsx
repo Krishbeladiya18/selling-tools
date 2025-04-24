@@ -92,7 +92,7 @@ export default function Reports() {
                 status: selectedProductionStatuses,
                 transferType: selectedTransferType,
             };
-            
+            //okmijmn
             if (selectedReportType === REPORT_TYPES.REGISTER) {
                 navigate(`/registerreports`, { state: payload });
             } else {
